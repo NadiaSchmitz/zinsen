@@ -12,7 +12,6 @@ public class Formeln {
 		
 		String ausgehen = "Danke, dass Sie das Programm benutzen haben.";
 		String falscheEingabe = "Diese Werte kann das Programm nicht berechnen";
-		//String wiederholen = 
 		
 		DecimalFormat df = new DecimalFormat("###.##");
 		
